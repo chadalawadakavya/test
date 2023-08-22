@@ -1,0 +1,6 @@
+{{#user}}
+Name: chadalawada kavya
+Skills: HTML, CSS, JS, Next.js
+Email: chadalawadakavya5@gmail.com
+{{/user}}
+
